@@ -1,1 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*contact*/
+#contact{
+	margin: 20px auto;
+	width: 90%;
 
+}
+#contact img{
+	margin-top: 30px;
+}
+button{
+	margin: 20px;
+}
+
+/*summary*/
+#summary{
+	margin: 25px;
+	
+}
